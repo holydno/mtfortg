@@ -5,7 +5,7 @@ proxy for tg port 6463
 
 Установка одной командой / обновление при повторном запуске
 
-curl -fsSL https://raw.githubusercontent.com/holydno/mtfortg/refs/heads/main/install.sh | sh
+    curl -fsSL https://raw.githubusercontent.com/holydno/mtfortg/refs/heads/main/install.sh | sh
 
 После запуска скрипт запросит:
 
